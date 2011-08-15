@@ -1,0 +1,14 @@
+h2. Getting Started
+
+Open env/bin/activate and set local VIRTUAL_ENV path
+
+Activate your virtual environment:
+@. env/bin/activate@
+
+Install Flask:
+@easy install flask@
+
+Execute python file:
+@python gmaps.py@
+
+For purposes of this example, run add_user to initialize a new default user
